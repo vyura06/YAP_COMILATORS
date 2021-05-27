@@ -1,0 +1,20 @@
+class Program {
+        static void Main(string args)
+        {
+            System.Console.WriteLine("Привет мир!");
+            System.Console.ReadLine();
+            Int a = f;
+            D = a + b;
+            Ldl = 102;
+            System.Console.WriteLine(asd + asdf);
+            kdjskdlf(lksjdfl);
+            dkk();
+            Pdf = "lksdfj";
+        }
+
+	int fun(){
+            Ksdfj slkdfj;
+            Ksdjf = lkjsd + ldakjf;
+            return 0;
+	}
+    }
